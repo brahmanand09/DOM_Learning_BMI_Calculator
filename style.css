@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(83, 83, 83);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    color: #fff;
+    text-align: center;
+}
+
+#results{
+    font-size: large;
+    margin-top: 40px;
+}
+
+button{
+    width: 120px;
+    height: 35px;
+    font-size: large;
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 12px;
+    cursor: pointer;
+}
