@@ -8,3 +8,11 @@ A simple and interactive **BMI (Body Mass Index) Calculator** built using **HTML
 This project showcases strong fundamentals of **DOM Manipulation**, event handling, and dynamic UI updates.
 
 ---
+
+## 🚀 Features
+
+✔️ Calculate BMI using height and weight  
+✔️ Instant result display  
+✔️ Weight category message (Underweight, Normal, Overweight, Obese)  
+✔️ Input validation  
+✔️ Responsive UI  
