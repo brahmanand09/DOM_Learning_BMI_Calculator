@@ -35,3 +35,7 @@ This project showcases strong fundamentals of **DOM Manipulation**, event handli
 - HTML5  
 - CSS3  
 - JavaScript (DOM Manipulation)
+
+---
+
+## 📂 Project Structure
