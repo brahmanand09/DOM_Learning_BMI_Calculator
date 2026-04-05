@@ -16,3 +16,22 @@ This project showcases strong fundamentals of **DOM Manipulation**, event handli
 ✔️ Weight category message (Underweight, Normal, Overweight, Obese)  
 ✔️ Input validation  
 ✔️ Responsive UI  
+
+---
+
+## 📊 BMI Categories
+
+| BMI Range   | Category      |
+|-------------|---------------|
+| < 18.5      | Underweight   |
+| 18.5 – 24.9 | Normal weight |
+| 25 – 29.9   | Overweight    |
+| 30+         | Obese         |
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript (DOM Manipulation)
