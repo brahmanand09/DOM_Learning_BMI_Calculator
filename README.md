@@ -45,3 +45,14 @@ BMI-Calculator/
 - ├── index.html
 - ├── style.css
 - └── script.js
+
+---
+
+## ⚙️ How It Works
+
+1. Enter your **height (cm)** and **weight (kg)**  
+2. Click on **Calculate BMI**  
+3. The app will:
+   - Compute BMI using formula  
+   - Display result  
+   - Show health category 
