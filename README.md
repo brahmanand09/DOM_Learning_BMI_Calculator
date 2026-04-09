@@ -41,7 +41,7 @@ This project showcases strong fundamentals of **DOM Manipulation**, event handli
 ## 📂 Project Structure
 
 BMI-Calculator/
-│
-├── index.html
-├── style.css
-└── script.js
+- │
+- ├── index.html
+- ├── style.css
+- └── script.js
