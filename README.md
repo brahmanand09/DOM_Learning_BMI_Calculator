@@ -55,4 +55,18 @@ BMI-Calculator/
 3. The app will:
    - Compute BMI using formula  
    - Display result  
-   - Show health category 
+   - Show health category
+
+---
+
+## 🧠 Concepts Used
+
+- DOM Selection (`getElementById`, `querySelector`)  
+- Event Handling  
+- Dynamic UI Rendering  
+- Form Validation  
+- Conditional Logic  
+
+---
+
+## ▶️ Run Locally
