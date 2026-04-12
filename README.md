@@ -75,3 +75,11 @@ BMI-Calculator/
 cd DOM_Learning_BMI_Calculator
 open index.html`
 
+---
+
+## 📌 Future Enhancements
+
+- 🌙 Dark Mode  
+- 🔄 Unit Converter (kg/lbs, cm/inches)  
+- 📊 BMI History (localStorage)  
+- 🎨 UI Animations  
