@@ -71,9 +71,11 @@ BMI-Calculator/
 
 ## ▶️ Run Locally
 
-`git clone https://github.com/your-username/bmi-calculator.git
+```
+git clone https://github.com/your-username/bmi-calculator.git
 cd DOM_Learning_BMI_Calculator
-open index.html`
+open index.html
+```
 
 ---
 
